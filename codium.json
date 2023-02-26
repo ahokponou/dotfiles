@@ -1,5 +1,4 @@
 {
-    // EDITOR
     "editor.minimap.enabled": false,
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false,
@@ -8,25 +7,25 @@
     "editor.occurrencesHighlight": false,
     "editor.suggest.insertMode": "replace",
     "editor.acceptSuggestionOnCommitCharacter": false,
-    // FILES
+    
     "files.autoSave": "onFocusChange",
     "files.defaultLanguage": "markdown",
-    // EXPLORER
-    "explorer.autoReveal": false,
+    
+	"explorer.autoReveal": false,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
-    // WORKBENCH
+    
     "workbench.tree.indent": 15,
     "workbench.tree.renderIndentGuides": "always",
     "workbench.editor.enablePreview": false,
-    // GIT
+    
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
-    // GITLENS
+    
     "gitlens.currentLine.enabled": false,
     "gitlens.codeLens.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
-    // SOFTWARE STYLE
+	
     "workbench.colorTheme": "Tokyo Night",
     "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
