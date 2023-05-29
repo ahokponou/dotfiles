@@ -11,7 +11,7 @@
     "files.autoSave": "onFocusChange",
     "files.defaultLanguage": "markdown",
     
-	"explorer.autoReveal": false,
+    "explorer.autoReveal": false,
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     
@@ -25,13 +25,13 @@
     "gitlens.currentLine.enabled": false,
     "gitlens.codeLens.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
-	
-    "workbench.colorTheme": "Tokyo Night",
+    
+    "workbench.colorTheme": "Bearded Theme Arc Blueberry",
     "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.lineHeight": 28,
     "editor.fontSize": 16,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "bearded-icons",
     "workbench.colorCustomizations": {
         "[Tokyo Night]": {
             "editor.selectionBackground": "#3D59A1",
@@ -39,5 +39,6 @@
         },
         "editor.selectionBackground": "#3D59A1",
         "editor.selectionHighlightBackground": "#3D59A1"
-    }
+    },
+    "workbench.startupEditor": "none"
 }
