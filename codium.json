@@ -26,19 +26,11 @@
     "gitlens.codeLens.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
     
-    "workbench.colorTheme": "Bearded Theme Arc Blueberry",
+    "workbench.colorTheme": "Bearded Theme Oceanic",
     "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.lineHeight": 28,
     "editor.fontSize": 16,
     "workbench.iconTheme": "bearded-icons",
-    "workbench.colorCustomizations": {
-        "[Tokyo Night]": {
-            "editor.selectionBackground": "#3D59A1",
-            "editor.selectionHighlightBackground": "#3D59A1"
-        },
-        "editor.selectionBackground": "#3D59A1",
-        "editor.selectionHighlightBackground": "#3D59A1"
-    },
     "workbench.startupEditor": "none"
 }
