@@ -26,11 +26,14 @@
     "gitlens.codeLens.enabled": false,
     "gitlens.hovers.currentLine.over": "line",
     
-    "workbench.colorTheme": "Bearded Theme Oceanic",
+    "workbench.preferredDarkColorTheme": "Bearded Theme Coffee",
+    "workbench.preferredLightColorTheme" : "Bearded Theme Coffee Cream",
+    "window.autoDetectColorScheme": true,
     "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.lineHeight": 28,
     "editor.fontSize": 16,
     "workbench.iconTheme": "bearded-icons",
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Bearded Theme Coffee Cream"
 }
