@@ -3,8 +3,7 @@ set nocompatible
 
 " Color scheme
 syntax on
-colorscheme murphy
-set background=dark
+colorscheme default
 
 " File detection and Formatting
 filetype on
