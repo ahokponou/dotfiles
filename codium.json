@@ -22,18 +22,14 @@
     "git.confirmSync": false,
     "git.enableSmartCommit": true,
     
-    "gitlens.currentLine.enabled": false,
-    "gitlens.codeLens.enabled": false,
-    "gitlens.hovers.currentLine.over": "line",
-    
-    "workbench.preferredDarkColorTheme": "Bearded Theme Coffee",
-    "workbench.preferredLightColorTheme" : "Bearded Theme Coffee Cream",
+    "workbench.preferredDarkColorTheme": "Tokyo City Darker",
+    "workbench.preferredLightColorTheme" : "Tokyo City Lighter",
     "window.autoDetectColorScheme": true,
     "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "editor.lineHeight": 28,
     "editor.fontSize": 16,
-    "workbench.iconTheme": "bearded-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "Bearded Theme Coffee Cream"
 }
