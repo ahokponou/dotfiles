@@ -45,7 +45,5 @@ export TERM=xterm-256color
 export EDITOR="vim"
 
 # ALIASES
-alias vps1="ssh helmut@54.36.188.40"
-alias vsrv1="ssh helmut@192.168.122.2"
 alias ll="ls -l"
 alias la="ls -la"
