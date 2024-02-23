@@ -37,10 +37,6 @@ zstyle ':completion:*:*:kill:*:processes' list-colors '=(#b) #([0-9]#)*=0=01;31'
 zstyle ':completion:*:kill:*' command 'ps -u $USER -o pid,%cpu,tty,cputime,cmd'
 
 # USER CONFIGURATION
-export LANG=en_GB.UTF-8
-export LC_ALL=en_GB.UTF-8
-export LANGUAGE=en_GB
-export LIBVIRT_DEFAULT_URI=qemu:///system
 export TERM=xterm-256color
 export EDITOR="vim"
 
